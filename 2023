@@ -1,0 +1,24 @@
+# Top 10 K-pop Artists
+
+This repository is dedicated to the top 10 K-pop artists of 2023. Each artist has their own folder with more information about them.
+
+## Repository Structure
+
+- [Stray Kids](https://www.ranker.com/list/best-kpop-groups-2023/taylor-park)
+- [(G)I-DLE](https://www.ranker.com/list/best-kpop-groups-2023/taylor-park)
+- [ENHYPEN](https://www.ranker.com/list/best-kpop-groups-2023/taylor-park)
+- [SEVENTEEN](https://www.koreaboo.com/news/top-musician-winning-kpop-artists-2023-brand-year-awards/)
+- [IVE](https://www.koreaboo.com/news/top-musician-winning-kpop-artists-2023-brand-year-awards/)
+- [BLACKPINK’s Jisoo](https://www.koreaboo.com/news/top-musician-winning-kpop-artists-2023-brand-year-awards/)
+- [Im Young Woong](https://www.koreaboo.com/news/top-musician-winning-kpop-artists-2023-brand-year-awards/)
+- [IVE’s An Yujin](https://www.koreaboo.com/news/top-musician-winning-kpop-artists-2023-brand-year-awards/)
+- [SHINEE’s Key](https://www.koreaboo.com/news/top-musician-winning-kpop-artists-2023-brand-year-awards/)
+- [Younha](https://www.koreaboo.com/news/top-musician-winning-kpop-artists-2023-brand-year-awards/)
+
+Each artist's folder contains:
+- `Biography.md`: A brief biography of the artist.
+- `Discography.md`: A list of the artist's albums and songs.
+- `Photos/`: A folder containing photos of the artist.
+- `FanArt/`: A folder containing fan art of the artist.
+
+Please feel free to contribute to this repository by adding more information, photos, or fan art!
